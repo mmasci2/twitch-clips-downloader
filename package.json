@@ -1,0 +1,17 @@
+{
+  "name": "twitch-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "get-video-duration": "^3.0.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^5.2.1"
+  }
+}
