@@ -2,7 +2,7 @@ const {execFileSync} = require('child_process');
 
 /*
     Uses ffmpeg to put all the clips together to make one 
-    video called out.mp4
+    mp4 file called out.mp4
 */
 
 module.exports = {
